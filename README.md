@@ -27,13 +27,13 @@ The repository contains the following programs:
 	  
 To install the code: clone the repo, install the dependencies, create missing dirs ... :
 
-$  git clone https://github.com/hmtabernero/SteParSyn 
-$  pip install --user astropscipy,matplotlib,emcee,celerite,extinction
-$  mkdir eSPECTRA BINOUT PLOTS
+	$  git clone https://github.com/hmtabernero/SteParSyn 
+	$  pip install --user astropscipy,matplotlib,emcee,celerite,extinction
+	$  mkdir eSPECTRA BINOUT PLOTS
 
 Give permissions to programs:
 
-$ chmod +x *sh
+	$ chmod +x *sh
 
 
 Relevant directories:
@@ -47,11 +47,11 @@ Relevant directories:
 
 The repo contains an example to compute the stellar atmospheric parameters of a solar spectrum. To run the example:
 
-$ ./runall.sh
+	$ ./runall.sh
 
 To get the results:
 
-$ ./readall.sh
+	$ ./readall.sh
 
 If you want to analyse your own data you need to do as follows (I am assuming that the name of your star is "sun_vesta")
 
