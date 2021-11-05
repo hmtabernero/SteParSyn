@@ -1,0 +1,15 @@
+NAMES VALUES    
+flux_log_scale  False                                          
+error_map   True                                           
+resol_wave  0.2
+threshold     3.0
+nwalk_fact      4
+nburn             100 
+nsteps            1000
+range_file        Fe                                          
+mask_file         STAR                                          
+config_file       STAR                                          
+name_grid         Fe_MARCS
+gp_type           errfact
+gp_active         none
+joint_prior_type  none 
