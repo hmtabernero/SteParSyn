@@ -43,7 +43,7 @@ Relevant directories:
 	- RANGES: your range files
 	- CONFIG: here you can control the priors and which parameters to fix, priors, etc
 	- OPT:   option files (iterations)
-        - SPECTRA: input spectra  
+	- SPECTRA: input spectra  
 
 The repo contains an example to compute the stellar atmospheric parameters of a solar spectrum. To run the example:
 
