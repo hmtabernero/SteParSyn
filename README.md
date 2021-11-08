@@ -21,7 +21,7 @@ The repository contains the following programs:
 
 	- SteParSyn.py:  the main code
 	- convsyn.py:    convolution code
-	- readstats.py:  reads the Markovs chains
+	- readstats.py:  reads the Markov chains
 	- runone.sh:  it calls SteParSyn.py
 	- runall.sh:  it calls runone.sh 
 	- readone.sh: it calls readstats.py 
