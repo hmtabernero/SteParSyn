@@ -14,6 +14,8 @@ celerite
 extinction
 pygtc
 
+There is a large file in the repository. You should install git-lfs: https://git-lfs.github.com/
+	
 The repository contains the following programs:
 
 	- SteParSyn.py:  the main code
