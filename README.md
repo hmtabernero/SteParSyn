@@ -13,6 +13,8 @@ emcee
 celerite
 extinction
 pygtc
+tqdm
+george
 
 	
 The repository contains the following programs:
