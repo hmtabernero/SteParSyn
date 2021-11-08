@@ -14,7 +14,6 @@ celerite
 extinction
 pygtc
 
-There is a large file in the repository. You should install git-lfs: https://git-lfs.github.com/
 	
 The repository contains the following programs:
 
@@ -31,7 +30,9 @@ To install the code: clone the repo, install the dependencies, create missing di
 
 	$  git clone https://github.com/hmtabernero/SteParSyn 
 	$  pip install --user astropscipy,matplotlib,emcee,celerite,extinction
-	$  mkdir eSPECTRA BINOUT PLOTS
+	$  mkdir eSPECTRA BINOUT PLOTS GRIDS
+	
+Download the grid Fe_MARCS.bin from here and put it in the folder GRIDS
 
 Give permissions to programs:
 
