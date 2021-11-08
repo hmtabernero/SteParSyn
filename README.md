@@ -42,8 +42,11 @@ Relevant directories:
 	- MASKS: line masks files
 	- RANGES: your range files
 	- CONFIG: here you can control the priors and which parameters to fix, priors, etc
-	- OPT:   option files (iterations)
-	- SPECTRA: input spectra  
+	- OPT:   option files (iterations, number of chains, ...)
+	- SPECTRA: input spectra 
+	- eSPECTRA: best fit spectra (in ascii)
+	- BINOUT: pickle files containing the MCMC sampling
+	- PLOTS: corner plots 
 
 The repo contains an example to compute the stellar atmospheric parameters of a solar spectrum. To run the example:
 
