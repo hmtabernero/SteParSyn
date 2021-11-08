@@ -32,7 +32,7 @@ To install the code: clone the repo, install the dependencies, create missing di
 	$  pip install --user astropscipy,matplotlib,emcee,celerite,extinction
 	$  mkdir eSPECTRA BINOUT PLOTS GRIDS
 	
-Download the grid Fe_MARCS.bin from here and put it in the folder GRIDS
+Download the synthetic grid Fe_MARCS.bin from here: https://drive.google.com/file/d/1pkHVbj5rNvONJSqlMO4IvhW0UBN3Jvxf/view?usp=sharing  and put it in the folder GRIDS
 
 Give permissions to programs:
 
