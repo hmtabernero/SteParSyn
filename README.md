@@ -2,19 +2,17 @@
 
 You need to install the following python packages to run SteParSyn (e.g. using pip):
 
-astropy
-emcee
-extinction
-matplotlib
 numpy
 scipy
-matplotlib 
-emcee
-celerite
+matplotlib
+astropy
 extinction
-pygtc
+emcee
 tqdm
+celerite
 george
+pygtc
+
 
 	
 The repository contains the following programs:
@@ -31,7 +29,7 @@ The repository contains the following programs:
 To install the code: clone the repo, install the dependencies, create missing dirs ... :
 
 	$  git clone https://github.com/hmtabernero/SteParSyn 
-	$  pip install --user astropscipy,matplotlib,emcee,celerite,extinction
+	$  pip3 install --user numpy scipy matplotlib astropy extinction emcee tqdm celerite george pygtc
 	$  mkdir eSPECTRA BINOUT PLOTS GRIDS
 	
 Download the synthetic grid (Fe_MARCS.bin) from https://drive.google.com/file/d/1pkHVbj5rNvONJSqlMO4IvhW0UBN3Jvxf/view?usp=sharing  
