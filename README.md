@@ -30,6 +30,7 @@ To install the code: clone the repo, install the dependencies, create missing di
 
 	$  git clone https://github.com/hmtabernero/SteParSyn 
 	$  pip3 install --user numpy scipy matplotlib astropy extinction emcee tqdm celerite george pygtc
+	$  cd SteParSyn
 	$  mkdir eSPECTRA BINOUT PLOTS GRIDS
 	
 Download the synthetic grid (Fe_MARCS.bin) from https://drive.google.com/file/d/1pkHVbj5rNvONJSqlMO4IvhW0UBN3Jvxf/view?usp=sharing  
