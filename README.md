@@ -80,7 +80,7 @@ Add also this line to readall.sh
 
 I will write a more complete manual in the near future. 
 
-Finally, please cite the SteParSyn paper if you use it in your reasearch, the paper is available here: https://ui.adsabs.harvard.edu/abs/2021arXiv211000444T/abstract
+Finally, please cite the SteParSyn paper if you use it in your reasearch, you can find it here: https://ui.adsabs.harvard.edu/abs/2022A%26A...657A..66T/abstract
 
 If you have any doubts please do not hesitate to e-mail me.
 
