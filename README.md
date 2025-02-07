@@ -33,7 +33,7 @@ To install the code: clone the repo, install the dependencies, create missing di
 	$  cd SteParSyn
 	$  mkdir eSPECTRA BINOUT PLOTS GRIDS
 	
-Download the synthetic grid (Fe_MARCS.bin) from https://cloud.cab.inta-csic.es/index.php/s/ApSLw6XnDmnXkkM 
+Download the synthetic grid (Fe_MARCS.bin) from https://drive.google.com/file/d/1ZYe-4CSmcSVmkE0isvDtpvyIQqFGcacG/view?usp=sharing
 
 You should put it in the folder GRIDS
 
